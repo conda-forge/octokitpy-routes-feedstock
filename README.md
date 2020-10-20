@@ -5,11 +5,13 @@ Home: https://github.com/khornberg/octokitpy-routes
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/octokitpy-routes-feedstock/blob/master/LICENSE.txt)
 
 Summary: Routes for octokitpy
 
+Development: https://github.com/khornberg/octokitpy-routes
 
+Documentation: https://octokit.github.io/routes/
 
 Current build status
 ====================
