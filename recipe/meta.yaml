@@ -1,5 +1,5 @@
 {% set name = "octokitpy-routes" %}
-{% set version = "2.2.0" %}
+{% set version = "2.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 07f5b4acd1fe09da3c664062386fe7482ff34a9219737debec460632277616b3
+  sha256: 0cb58d5d4fa85af6b0d680aca4ff114c9e32919fcb048e8eb6576d48a1d9eecb
 
 build:
   noarch: python
